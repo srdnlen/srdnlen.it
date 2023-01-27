@@ -304,7 +304,7 @@ order: 4
                 <img src="../assets/img/avatars/zaua.png" alt="avatar">
             </div>
             <div class="col-10">
-                <h2 class="card-title text-dark">Lorenzo Badas</h2>
+                <h2 class="card-title text-dark">Giovanni Manca</h2>
                 <p class="card-text">
                     High School: ITIS Othoca (Oristano) <br>
                     Bachelor's degree: Electrical, Electronic and Computer Engineering at UNICA (Cagliari) <br>
@@ -427,7 +427,6 @@ order: 4
                 <img src="../assets/img/avatars/maru.png" alt="avatar">
             </div>
             <div class="col-10">
-                <h5><i class="fa-solid fa-trophy winner-text">&nbsp; UniCA CyberChallenge 2021 winner</i></h5>
                 <h2 class="card-title text-dark">Marcello Carboni</h2>
                 <p class="card-text">
                     High School: Computer Science at ITIS Othoca (Oristano) <br>
