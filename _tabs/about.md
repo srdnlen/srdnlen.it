@@ -289,7 +289,7 @@ order: 4
         </div>
     </div>
     <div class="card-footer">
-        Categories: Web, Network & a bit of Coding
+        Categories: Reversing, Pwn
     </div>
 </div>
 
