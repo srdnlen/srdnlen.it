@@ -275,7 +275,8 @@ order: 4
         renzoorenzi- Member since: 2021
     </div>
     <div class="card-body">
-        <div class="row">Lorenzo Badas</h2>
+        <div class="row">
+                <h2 class="card-title text-dark">Lorenzo Badas</h2>
                 <p class="card-text">
                     High School: Convitto Nazionale "Vittorio Emanuele II" (Cagliari) <br>
                     Bachelor's degree: Computer Engineering at UNICA (Cagliari) (Ongoing)
