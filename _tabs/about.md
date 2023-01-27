@@ -272,10 +272,14 @@ order: 4
 <!-- nickname : renzoorenzi -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
-        renzoorenzi- Member since: 2021
+        renzoorenzi - Member since: 2021
     </div>
     <div class="card-body">
         <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/renzoorenzi.png" alt="avatar">
+            </div>
+            <div class="col-10">
                 <h2 class="card-title text-dark">Lorenzo Badas</h2>
                 <p class="card-text">
                     High School: Convitto Nazionale "Vittorio Emanuele II" (Cagliari) <br>
