@@ -367,30 +367,6 @@ order: 4
     </div>
 </div>
 
-<!-- nickname : ale613 -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        Ale613 - Member since: 2021
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/ale613.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Alessandro Melis</h2>
-                <p class="card-text">
-                    High School: Computer Science at ITIS Othoca (Oristano) <br>
-                    Bachelor's degree: Computer Science at UNICA (Cagliari)(Ongoing)
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Web Exploitation, Network & Misc
-    </div>
-</div>
-
 <!-- nickname : fbk -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
