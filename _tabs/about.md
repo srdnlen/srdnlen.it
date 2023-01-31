@@ -48,6 +48,30 @@ order: 4
     </div>
 </div>
 
+<!-- nickname : takenX10 -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        takenX10- Member since: 2019
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/takenX10.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Alessandro Frau</h2>
+                <p class="card-text">
+                    High School: Liceo Scientifico G. Brotzu (Quartu S.Elena) <br>
+                    Bachelor's degree: Computer Science at UNIBO (Bologna) (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Web, Network & a bit of Coding
+    </div>
+</div>  
+
 <!-- nickname : pysu -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
@@ -70,6 +94,78 @@ order: 4
     </div>
     <div class="card-footer">
         Categories: Web Exploitation, Network, Crypto & a little bit of Forensic if needed
+    </div>
+</div>
+
+<!-- nickname : minn3 -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        minn3- Member since: 2019
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/minn3.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Luca Minnei</h2>
+                <p class="card-text">
+                    High School: Liceo Scientifico G. Brotzu (Quartu S.Elena) <br>
+                    Bachelor's degree: Computer Science at UNICA (Cagliari)(Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Forensics & Misc
+    </div>
+</div>
+
+<!-- nickname : k0d14k -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        k0d14k - Member since: 2019
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/kodiak.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Luca Puzzoni</h2>
+                <p class="card-text">
+                    High School: Computer Science for Economy at ITC Primo Levi (Pitz'e Serra) <br>
+                    Bachelor degree: Computer science at UNICA (Cagliari)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Web Exploitation, Misc & Forensic
+    </div>
+</div>
+
+<!-- nickname : vita -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        vita - Member since: 2019
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/vita.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Luca Vitaliano Damiano</h2>
+                <p class="card-text">
+                    High School: Computer Science at ITIS Michele Giua (Cagliari) <br>
+                    Bachelor degree: Electrical, Electronic and Computer Engineering at UNICA (Cagliari) (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Forensic and Misc
     </div>
 </div>
 
@@ -99,102 +195,26 @@ order: 4
     </div>
 </div>
 
-<!-- nickname : k0d14k -->
+<!-- nickname : k0w41$k1 -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
-        k0d14k - Member since: 2019
+        k0w41$k1- Member since: 2020
     </div>
     <div class="card-body">
         <div class="row">
             <div class="col-2">
-                <img src="../assets/img/avatars/kodiak.png" alt="avatar">
+                <img src="../assets/img/avatars/kowalski.png" alt="avatar">
             </div>
             <div class="col-10">
-                <h2 class="card-title text-dark">Luca Puzzoni</h2>
+                <h2 class="card-title text-dark">Daniele Pintore</h2>
                 <p class="card-text">
-                    High School: Computer Science for Economy at ITC Primo Levi (Pitz'e Serra) <br>
-                    Bachelor degree: Computer science at UNICA (Cagliari)
+                    High School: Computer Science at ITIS Othoca (Oristano)
                 </p>
             </div>
         </div>
     </div>
     <div class="card-footer">
-        Categories: Web Exploitation, Misc & Forensic
-    </div>
-</div>
-
-<!-- nickname : slsanna -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        slsanna - Member since: 2020
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/slsanna.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Silvia Lucia Sanna</h2>
-                <p class="card-text">
-                    High School: International Language High School (Spanish Option) at Istituto Margherita di Castelvì (Sassari) <br>
-                    Bachelor degree: Electrical, Electronic and Computer Engineering at UNICA (Cagliari) <br>
-                    Master degree: Computer Engineering, Cybersecurity and Artificial Intelligence at UNICA (Cagliari) <br>
-                    OpenECSC 2022 top 3 in all 3 rounds <br>
-                    National PhD in Artificial Intelligence for Security - University of Cagliari
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Forensic, Misc & Web Exploitation
-    </div>
-</div>
-
-<!-- nickname : vita -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        vita - Member since: 2019
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/vita.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Luca Vitaliano Damiano</h2>
-                <p class="card-text">
-                    High School: Computer Science at ITIS Michele Giua (Cagliari) <br>
-                    Bachelor degree: Electrical, Electronic and Computer Engineering at UNICA (Cagliari) (Ongoing)
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Forensic and Misc
-    </div>
-</div>
-
-<!-- nickname : tosofia -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        tosofia - Member since: 2020
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/tosofia.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Sofia Tocco</h2>
-                <p class="card-text">
-                    High School: Computer Science at ITIS Othoca (Oristano) <br>
-                    Bachelor's degree: Computer Science at UNICA (Cagliari) (Ongoing)
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Web Exploitation, Network & a bit of OSINT
+        Categories: Pwn, Reversing & some Web
     </div>
 </div>
 
@@ -222,148 +242,78 @@ order: 4
     </div>
 </div>
 
-<!-- nickname : k0w41$k1 -->
+<!-- nickname : slsanna -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
-        k0w41$k1- Member since: 2020
+        slsanna - Member since: 2020
     </div>
     <div class="card-body">
         <div class="row">
             <div class="col-2">
-                <img src="../assets/img/avatars/kowalski.png" alt="avatar">
+                <img src="../assets/img/avatars/slsanna.png" alt="avatar">
             </div>
             <div class="col-10">
-                <h2 class="card-title text-dark">Daniele Pintore</h2>
+                <h2 class="card-title text-dark">Silvia Lucia Sanna</h2>
                 <p class="card-text">
-                    High School: Computer Science at ITIS Othoca (Oristano)
+                    High School: International Language High School (Spanish Option) at Istituto Margherita di Castelvì (Sassari) <br>
+                    Bachelor degree: Electrical, Electronic and Computer Engineering at UNICA (Cagliari) <br>
+                    Master degree: Computer Engineering, Cybersecurity and Artificial Intelligence at UNICA (Cagliari) <br>
+                    OpenECSC 2022 top 3 in all 3 rounds <br>
+                    National PhD in Artificial Intelligence for Security - University of Cagliari
                 </p>
             </div>
         </div>
     </div>
     <div class="card-footer">
-        Categories: Pwn, Reversing & some Web
+        Categories: Forensic, a bit of Reverse & Web Exploitation
     </div>
 </div>
 
-<!-- nickname : takenX10 -->
+<!-- nickname : xamivel -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
-        takenX10- Member since: 2019
+        xamivel - Member since: 2020
     </div>
     <div class="card-body">
         <div class="row">
             <div class="col-2">
-                <img src="../assets/img/avatars/takenX10.png" alt="avatar">
+                <img src="../assets/img/avatars/xamivel.png" alt="avatar">
             </div>
             <div class="col-10">
-                <h2 class="card-title text-dark">Alessandro Frau</h2>
+                <h2 class="card-title text-dark">Simone Schirru</h2>
                 <p class="card-text">
-                    High School: Liceo Scientifico G. Brotzu (Quartu S.Elena) <br>
-                    Bachelor's degree: Computer Science at UNIBO (Bologna) (Ongoing)
+                    High School: Computer Science at ITIS Othoca (Oristano) <br>
+                    Bachelor degree: Computer Science at UNICA (Cagliari) (Ongoing)
                 </p>
             </div>
         </div>
     </div>
     <div class="card-footer">
-        Categories: Web, Network & a bit of Coding
-    </div>
-</div>  
-
-<!-- nickname : renzoorenzi -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        renzoorenzi - Member since: 2021
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/renzoorenzi.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Lorenzo Badas</h2>
-                <p class="card-text">
-                    High School: Convitto Nazionale "Vittorio Emanuele II" (Cagliari) <br>
-                    Bachelor's degree: Computer Engineering at UNICA (Cagliari) (Ongoing)
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Reversing, Pwn
+        Categories: Pwn, Rev & some Web Exploitation
     </div>
 </div>
 
-<!-- nickname : Zaua -->
+<!-- nickname : tosofia -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
-        Zaua- Member since: 2021
+        tosofia - Member since: 2020
     </div>
     <div class="card-body">
         <div class="row">
             <div class="col-2">
-                <img src="../assets/img/avatars/zaua.png" alt="avatar">
+                <img src="../assets/img/avatars/tosofia.png" alt="avatar">
             </div>
             <div class="col-10">
-                <h2 class="card-title text-dark">Giovanni Manca</h2>
+                <h2 class="card-title text-dark">Sofia Tocco</h2>
                 <p class="card-text">
-                    High School: ITIS Othoca (Oristano) <br>
-                    Bachelor's degree: Electrical, Electronic and Computer Engineering at UNICA (Cagliari) <br>
-                    Master degree: Computer Engineering, Cybersecurity & Artificial Intelligence (Cagliari) (Ongoing)
+                    High School: Computer Science at ITIS Othoca (Oristano) <br>
+                    Bachelor's degree: Computer Science at UNICA (Cagliari) (Ongoing)
                 </p>
             </div>
         </div>
     </div>
     <div class="card-footer">
-        Categories: Crypto & some Rev
-    </div>
-</div>
-
-<!-- nickname : Federloi -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        Federloi' or 1=1-- Member since: 2021
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/federloi.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Federico Loi</h2>
-                <p class="card-text">
-                    High School: ITIS Minerario (Iglesias) <br>
-                    Bachelor's degree: Electrical, Electronic and Computer Engineering at UNICA (Cagliari) <br>
-                    Master degree: Computer Engineering, Cybersecurity & Artificial Intelligence (Cagliari)
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Web Exploitation
-    </div>
-</div>
-
-<!-- nickname : minn3 -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        minn3- Member since: 2019
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/minn3.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Luca Minnei</h2>
-                <p class="card-text">
-                    High School: Liceo Scientifico G. Brotzu (Quartu S.Elena) <br>
-                    Bachelor's degree: Computer Science at UNICA (Cagliari)(Ongoing)
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Forensics & Misc
+        Categories: Web Exploitation, Network & a bit of OSINT
     </div>
 </div>
 
@@ -392,27 +342,28 @@ order: 4
     </div>
 </div>
 
-<!-- nickname : maru -->
+<!-- nickname : DoctorOctopus -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
-        maru - Member since: 2021
+        DoctorOctopus - Member since: 2021
     </div>
     <div class="card-body">
         <div class="row">
             <div class="col-2">
-                <img src="../assets/img/avatars/maru.png" alt="avatar">
+                <img src="../assets/img/avatars/federloi.png" alt="avatar">
             </div>
             <div class="col-10">
-                <h2 class="card-title text-dark">Marcello Carboni</h2>
+                <h2 class="card-title text-dark">Federico Loi</h2>
                 <p class="card-text">
-                    High School: Computer Science at ITIS Othoca (Oristano) <br>
-                    Bachelor's degree: Computer Science at UNICA (Cagliari) (Ongoing)
+                    High School: ITIS Minerario (Iglesias) <br>
+                    Bachelor's degree: Electrical, Electronic and Computer Engineering at UNICA (Cagliari) <br>
+                    Master degree: Computer Engineering, Cybersecurity & Artificial Intelligence (Cagliari)
                 </p>
             </div>
         </div>
     </div>
     <div class="card-footer">
-        Categories: Web Exploitation, OSINT & Misc
+        Categories: Web Exploitation
     </div>
 </div>
 
@@ -440,6 +391,126 @@ order: 4
     </div>
 </div>
 
+<!-- nickname : Zaua -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        Zaua- Member since: 2021
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/zaua.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Giovanni Manca</h2>
+                <p class="card-text">
+                    High School: ITIS Othoca (Oristano) <br>
+                    Bachelor's degree: Electrical, Electronic and Computer Engineering at UNICA (Cagliari) <br>
+                    Master degree: Computer Engineering, Cybersecurity & Artificial Intelligence (Cagliari) (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Crypto & some Rev
+    </div>
+</div>
+
+<!-- nickname : renzoorenzi -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        renzoorenzi - Member since: 2021
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/renzoorenzi.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Lorenzo Badas</h2>
+                <p class="card-text">
+                    High School: Convitto Nazionale "Vittorio Emanuele II" (Cagliari) <br>
+                    Bachelor's degree: Computer Engineering at UNICA (Cagliari) (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Reversing, Pwn
+    </div>
+</div>
+
+<!-- nickname : maru -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        maru - Member since: 2021
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/maru.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Marcello Carboni</h2>
+                <p class="card-text">
+                    High School: Computer Science at ITIS Othoca (Oristano) <br>
+                    Bachelor's degree: Computer Science at UNICA (Cagliari) (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Web Exploitation, OSINT & Misc
+    </div>
+</div>
+
+<!-- nickname : ricchi24 -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        ricchi24 - Member since: 2021
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/ricchi24.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Riccardo Sulis</h2>
+                <p class="card-text">
+                    Bachelor degree: student of information technology at university of Cagliari
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Pwn
+    </div>
+</div>
+
+<!-- nickname : cvrlx -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        cvrlx - Member since: 2022
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/cvrlx.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Alessandro Carlo Melis</h2>
+                <p class="card-text">
+                    High School: Computer Science IIS Diongi Scano <br>
+                    Bachelor Degree: Computer Science at Unica (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Web Exploitation & OSINT
+    </div>
+</div>
+
 <!-- nickname : brn -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
@@ -461,6 +532,29 @@ order: 4
     </div>
     <div class="card-footer">
         Categories: Web Exploitation
+    </div>
+</div>
+
+<!-- nickname : doliv -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        doliv - Member since: 2022
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/doliv.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Diego Oliva</h2>
+                <p class="card-text">
+                    High School: Computer Science @ ITIS OTHOCA (Oristano) (ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Pwn & Rev
     </div>
 </div>
 
@@ -489,29 +583,6 @@ order: 4
     </div>
 </div>
 
-<!-- nickname : sanmatte -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        sanmatte - Member since: 2022
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/sanmatte.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Matteo Sanna</h2>
-                <p class="card-text">
-                    High School: Computer Science at ITIS Othoca (Oristano)
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Web Exploitation & OSINT
-    </div>
-</div>
-
 <!-- nickname : lollo -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
@@ -537,27 +608,26 @@ order: 4
     </div>
 </div>
 
-<!-- nickname : SalvaCa' -->
+<!-- nickname : sanmatte -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
-        SalvaC&agrave; - Member since: 2022
+        sanmatte - Member since: 2022
     </div>
     <div class="card-body">
         <div class="row">
             <div class="col-2">
-                <img src="../assets/img/avatars/salvaca.png" alt="avatar">
+                <img src="../assets/img/avatars/sanmatte.png" alt="avatar">
             </div>
             <div class="col-10">
-                <h2 class="card-title text-dark">Salvatore Castello</h2>
+                <h2 class="card-title text-dark">Matteo Sanna</h2>
                 <p class="card-text">
-                    High School: Liceo Scientifico Statale A. Pacinotti (Cagliari) <br>
-                    Bachelor degree: Computer Science at UNICA (Cagliari) (Ongoing)
+                    High School: Computer Science at ITIS Othoca (Oristano)
                 </p>
             </div>
         </div>
     </div>
     <div class="card-footer">
-        Categories: OSINT, Misc & Forensic
+        Categories: Web Exploitation & OSINT
     </div>
 </div>
 
@@ -585,74 +655,27 @@ order: 4
     </div>
 </div>
 
-<!-- nickname : xamivel -->
+<!-- nickname : SalvaCa' -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
-        xamivel - Member since: 2020
+        SalvaC&agrave; - Member since: 2022
     </div>
     <div class="card-body">
         <div class="row">
             <div class="col-2">
-                <img src="../assets/img/avatars/xamivel.png" alt="avatar">
+                <img src="../assets/img/avatars/salvaca.png" alt="avatar">
             </div>
             <div class="col-10">
-                <h2 class="card-title text-dark">Simone Schirru</h2>
+                <h2 class="card-title text-dark">Salvatore Castello</h2>
                 <p class="card-text">
-                    High School: Computer Science at ITIS Othoca (Oristano) <br>
+                    High School: Liceo Scientifico Statale A. Pacinotti (Cagliari) <br>
                     Bachelor degree: Computer Science at UNICA (Cagliari) (Ongoing)
                 </p>
             </div>
         </div>
     </div>
     <div class="card-footer">
-        Categories: Pwn, Rev & some Web Exploitation
-    </div>
-</div>
-
-<!-- nickname : cvrlx -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        cvrlx - Member since: 2022
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/cvrlx.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Alessandro Carlo Melis</h2>
-                <p class="card-text">
-                    High School: Computer Science IIS Diongi Scano <br>
-                    Bachelor Degree: Computer Science at Unica (Ongoing)
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Web Exploitation & OSINT
-    </div>
-</div>
-
-<!-- nickname : doliv -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        doliv - Member since: 2022
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/doliv.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Diego Oliva</h2>
-                <p class="card-text">
-                    High School: Computer Science @ ITIS OTHOCA (Oristano) (ongoing)
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Pwn & Rev
+        Categories: OSINT, Misc & Forensic
     </div>
 </div>
 
@@ -677,28 +700,5 @@ order: 4
     </div>
     <div class="card-footer">
         Categories: Web Exploitation & Hardware
-    </div>
-</div>
-
-<!-- nickname : ricchi24 -->
-<div class="card h-50 mb-3">
-    <div class="card-header text-dark">
-        ricchi24 - Member since: 2021
-    </div>
-    <div class="card-body">
-        <div class="row">
-            <div class="col-2">
-                <img src="../assets/img/avatars/ricchi24.png" alt="avatar">
-            </div>
-            <div class="col-10">
-                <h2 class="card-title text-dark">Riccardo Sulis</h2>
-                <p class="card-text">
-                    Bachelor degree: student of information technology at university of Cagliari
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="card-footer">
-        Categories: Pwn
     </div>
 </div>
