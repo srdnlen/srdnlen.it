@@ -4,8 +4,6 @@ icon: fas fa-c
 order: 5
 ---
 
-![C-Hallenge Header Photo](/postsimg/)
-
 Competizione di <strong>programmazione in C</strong> a squadre organizzata dal Dipartimento di Ingegneria Elettrica ed Elettronica, aperta a tutti gli 
 studenti iscritti ai corsi di laurea triennale o magistrale dell'Università degli Studi di Cagliari.
 
@@ -20,8 +18,8 @@ L'evento avrà luogo in due giorni:
          scopi ed il funzionamento del programmarealizzato (sarà parte della valutazione).  
     </li>
 </ul>
-Per maggiori informazioni potete consultare il PDF del regolamento: <a href="" target="_blank">Regolamento C-hallenge 2023</a>.
+Per maggiori informazioni potete consultare il PDF del regolamento: <a href="../assets/pdf/regolamentoCHallenge2023.pdf" target="_blank">Regolamento C-hallenge 2023</a>.
 
 <div class="d-flex justify-content-center">
-    <a href="" class="btn btn-info">Registrati ora.</a>
+    <a href="https://forms.gle/AXC8HPHuhbLn8r7D9" target="_blank" class="btn btn-info">Registrati ora.</a>
 </div>
