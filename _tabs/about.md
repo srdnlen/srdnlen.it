@@ -93,7 +93,7 @@ order: 4
         </div>
     </div>
     <div class="card-footer">
-        Categories: Web Exploitation, Network, Crypto & a little bit of Forensic if needed
+        Categories: Web Exploitation
     </div>
 </div>
 
