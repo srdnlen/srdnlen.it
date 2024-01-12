@@ -88,13 +88,12 @@ order: 4
                     High School: Computer science at ITIS OTHOCA (Oristano) <br>
                     Bachelor degree: Computer science at UNICA (Cagliari) <br>
                     Master degree: Computer Engineering, Cybersecurity and Artificial Intelligence at UNICA (Cagliari) <br>
-		    PhD Student in Computer Engineering at UniCA (Cagliari)
                 </p>
             </div>
         </div>
     </div>
     <div class="card-footer">
-        Categories: Web Exploitation
+        Categories: Web Exploitation, Network, Crypto & a little bit of Forensic if needed
     </div>
 </div>
 
