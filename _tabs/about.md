@@ -574,7 +574,8 @@ order: 4
                 <p class="card-text">
                     High School: Scientific High School - applied science at Luigi Einaudi school (Senorbì - SU) <br>
                     Bachelor degree: Electrical, Electronical and Computer Engineering at UniCA (Cagliari) <br>
-                    Master degree: Computer Engineering, Cybersecurity and Artificial Intelligence at UniCA (Cagliari)
+                    Master degree: Computer Engineering, Cybersecurity and Artificial Intelligence at UniCA (Cagliari) <br>
+		    Phd Student in Computer Engineering at UniCA (Cagliari) <br>
                 </p>
             </div>
         </div>
@@ -701,5 +702,54 @@ order: 4
     </div>
     <div class="card-footer">
         Categories: Web Exploitation & Hardware
+    </div>
+</div>
+
+<!-- nickname : manu_massi -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        d1dpvl - Member since: 2023
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/manu_massi.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Emanuele Massidda</h2>
+                <p class="card-text">
+                    High School: Liceo scientifico delle scienze applicate M. Giua
+		    Bachelor's degree: Computer Science at UNICA
+		    Master's degree: Computer Engineering, Cybersecurity and Artificial Intelligence at UNICA (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Pwn
+    </div>
+</div>
+
+<!-- nickname : SannaZ -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        d1dpvl - Member since: 2023
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/SannaZ.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Massimo Sanna</h2>
+                <p class="card-text">
+                     High School: Computer Science IIS Diongi Scano
+		     Bachelor Degree: Applied Computer Science and Data Analytics at Unica (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Web Exploitation & Rev
     </div>
 </div>
