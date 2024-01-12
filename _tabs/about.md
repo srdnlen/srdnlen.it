@@ -574,13 +574,14 @@ order: 4
                 <p class="card-text">
                     High School: Scientific High School - applied science at Luigi Einaudi school (Senorbì - SU) <br>
                     Bachelor degree: Electrical, Electronical and Computer Engineering at UniCA (Cagliari) <br>
-                    Master degree: Computer Engineering, Cybersecurity and Artificial Intelligence at UniCA (Cagliari)
+                    Master degree: Computer Engineering, Cybersecurity and Artificial Intelligence at UniCA (Cagliari) <br>
+                    PhD Student in Computer Engineering at UniCA (Cagliari) <br>
                 </p>
             </div>
         </div>
     </div>
     <div class="card-footer">
-        Categories: Web Exploitation, Network, & a bit of Reversing
+        Categories: Web Exploitation & a bit of Reversing
     </div>
 </div>
 
@@ -622,7 +623,8 @@ order: 4
             <div class="col-10">
                 <h2 class="card-title text-dark">Matteo Sanna</h2>
                 <p class="card-text">
-                    High School: Computer Science at ITIS Othoca (Oristano)
+                    High School: Computer Science at ITIS Othoca (Oristano) <br>
+                    Bachelor degree: Applied Computer Science and Data Analytics at UNICA (Cagliari)
                 </p>
             </div>
         </div>
@@ -694,7 +696,7 @@ order: 4
                 <h2 class="card-title text-dark">Simone Cocco</h2>
                 <p class="card-text">
                     High school: ITIS G. Marconi Cagliari <br>
-                    Bachelor degree: Informatica Applicata & Data Analisys at UNICA
+                    Bachelor degree: Informatica Applicata & Data Analytics at UNICA
                 </p>
             </div>
         </div>
