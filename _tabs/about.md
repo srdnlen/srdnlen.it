@@ -730,3 +730,27 @@ order: 4
         Categories: Pwn
     </div>
 </div>
+
+<!-- nickname : SannaZ -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        SannaZ - Member since: 2023
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/SannZ.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Massimo Sanna</h2>
+                <p class="card-text">
+                    High School: Computer Science IIS Diongi Scano <br>
+                    Bachelor Degree: Applied Computer Science and Data Analytics at Unica (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Web Exploitation & Rev
+    </div>
+</div>
