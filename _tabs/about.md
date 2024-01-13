@@ -702,6 +702,6 @@ order: 4
         </div>
     </div>
     <div class="card-footer">
-        Categories: Forensics & Hardware
+        Categories: Web Exploitation & Hardware
     </div>
 </div>
