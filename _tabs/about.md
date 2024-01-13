@@ -575,7 +575,7 @@ order: 4
                     High School: Scientific High School - applied science at Luigi Einaudi school (Senorbì - SU) <br>
                     Bachelor degree: Electrical, Electronical and Computer Engineering at UniCA (Cagliari) <br>
                     Master degree: Computer Engineering, Cybersecurity and Artificial Intelligence at UniCA (Cagliari) <br>
-                    PhD Student in Computer Engineering (Malware Analysis) at UniCA (Cagliari) <br>
+                    PhD Student in Computer Engineering at UniCA (Cagliari) <br>
                 </p>
             </div>
         </div>
