@@ -570,7 +570,7 @@ order: 4
                 <img src="../assets/img/avatars/diesoi.png" alt="avatar">
             </div>
             <div class="col-10">
-                <h2 class="card-title text-dark">Diego Soi <a href="https://it.linkedin.com/in/diego-soi-67a564216"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a></h2>
+                <h2 class="card-title text-dark">Diego Soi</h2>
                 <p class="card-text">
                     High School: Scientific High School - applied science at Luigi Einaudi school (Senorbì - SU) <br>
                     Bachelor degree: Electrical, Electronical and Computer Engineering at UniCA (Cagliari) <br>
