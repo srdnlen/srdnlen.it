@@ -739,7 +739,7 @@ order: 4
     <div class="card-body">
         <div class="row">
             <div class="col-2">
-                <img src="../assets/img/avatars/SannZ.png" alt="avatar">
+                <img src="../assets/img/avatars/SannaZ.png" alt="avatar">
             </div>
             <div class="col-10">
                 <h2 class="card-title text-dark">Massimo Sanna</h2>
