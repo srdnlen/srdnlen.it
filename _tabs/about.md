@@ -754,3 +754,27 @@ order: 4
         Categories: Web Exploitation & Rev
     </div>
 </div>
+
+<!-- nickname : Salsa -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        Salsa - Member since: 2023
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/salsa.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Simone Sulis</h2>
+                <p class="card-text">
+                    High School: Liceo Scientifico ITIS Michele Giua (Cagliari) <br>
+                    Bachelor degree: Computer Science at UNICA (Cagliari) (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Rev
+    </div>
+</div>
