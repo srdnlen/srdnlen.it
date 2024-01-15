@@ -731,6 +731,30 @@ order: 4
     </div>
 </div>
 
+<!-- nickname : lore_corrias -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        lore_corrias - Member since: 2023
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/lore_corrias.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Lorenzo Corrias</h2>
+                <p class="card-text">
+                    High School: Liceo Scientifico Antonio Pacinotti (Cagliari) <br>
+                    Bachelor Degree: Computer Science at UNICA (Cagliari) (Ongoing)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Web Exploitation
+    </div>
+</div>
+
 <!-- nickname : SannaZ -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
