@@ -706,6 +706,30 @@ order: 4
     </div>
 </div>
 
+<!-- nickname : guaddu -->
+<div class="card h-50 mb-3">
+    <div class="card-header text-dark">
+        guaddu - Member since: 2023
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-2">
+                <img src="../assets/img/avatars/Default.png" alt="avatar">
+            </div>
+            <div class="col-10">
+                <h2 class="card-title text-dark">Davide Sechi</h2>
+                <p class="card-text">
+                    High School: Computer Science at ITIS OTHOCA (Oristano) (ongoing) <br>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        Categories: Crypto
+    </div>
+</div>
+
+
 <!-- nickname : manu_massi -->
 <div class="card h-50 mb-3">
     <div class="card-header text-dark">
